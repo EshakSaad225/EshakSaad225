@@ -31,3 +31,10 @@ src="https://img.shields.io/github/followers/EshakSaad225?logo=github&style=for-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/EshakSaad225"><img src="https://github-readme-stats.vercel.app/api?username=EshakSaad225&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EshakSaad225's GitHub stats" /></a>
+
+<!--
+## Wach Snake Eating My github Contributions
+
+![snake gif](https://github.com/EshakSaad225/EshakSaad225/blob/output/github-contribution-grid-snake.svg)
+-->
+
